@@ -1,0 +1,16 @@
+__pycache__
+coco2017
+results
+01_01_C133_Dl_Detect_FocalGlobalDistill_TeachStud_SpatialChAattent_Cvpr2022.pdf
+cls.png
+feature.png
+FGD_implement.rar
+loss.png
+resnet50-19c8e357.pth
+resnet101-5d3b4d8f.pth
+resnext101_32x8d-8ba56ff5.pth
+test.ipynb
+true_cls.png
+val2017_bbox_results.json
+plot.py
+model_final.pt
